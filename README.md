@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nithinkumar19
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CSE Core
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on nk6046228@gmail.com
 
